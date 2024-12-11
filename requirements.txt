@@ -1,0 +1,6 @@
+flask
+requests
+python-opencv
+face_recognition
+pandas
+pyarrow
